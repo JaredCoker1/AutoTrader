@@ -1,0 +1,17 @@
+[
+    {
+        "INFO": {
+            "ID": "2",
+            "Last Update": "11:10pm",
+            "Cash": 784.88,
+            "Portfolio Value": 784.88,
+            "stocks": [
+                "HAE",
+                "IEP",
+                "ICD",
+                "STNE",
+                "FSR"
+            ]
+        }
+    }
+]

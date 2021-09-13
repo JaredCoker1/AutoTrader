@@ -1,0 +1,17 @@
+[
+    {
+        "INFO": {
+            "ID": "1",
+            "Last Update": "3:02pm",
+            "Cash": 91108.5,
+            "Portfolio Value": 91108.5,
+            "History": [],
+            "stocks": [
+                "DXC",
+                "MOD",
+                "SIF",
+                "MBI"
+            ]
+        }
+    }
+]

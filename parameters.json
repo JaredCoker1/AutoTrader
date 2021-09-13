@@ -1,0 +1,10 @@
+[
+    {
+        "primary": {
+            "list" : "NYSE",
+            "rsi" : 35,
+            "percent" : 3.5,
+            "portfolio" : "TestPort"
+        }
+    }
+]
